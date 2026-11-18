@@ -10,7 +10,7 @@
 ## Запуск
 
 ```bash
-python3 speedtest.py "https://speed.hetzner.de/10MB.bin"
+python3 speedtest.py "https://github.com/NikitaKnutov/internet-speed"
 ```
 
 Вместо адреса из примера можно передать URL любого файла. Для заметного и стабильного результата лучше использовать файл размером от нескольких мегабайт.
